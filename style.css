@@ -199,3 +199,13 @@ main {
 }
 
 
+@media (max-width: 500px) {
+  main {
+    display: flex;
+    flex-direction: column;
+  }
+
+  #aside-bar {
+    width: 100%;
+  }
+}
