@@ -260,7 +260,7 @@ main {
   margin-top: 15px;
   padding-left: 30px;
 }
-@media (max-width: 850px0) {
+@media (max-width: 850px) {
   main {
     display: flex;
     flex-direction: column;
